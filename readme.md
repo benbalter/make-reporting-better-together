@@ -1,6 +1,6 @@
-# Open Sourcing Government
+# Make reporting better, together
 
-*Applying the open-collaboration philosophy to the process of governing*
+*How open collaboration is helping to reimagine the way we work*
 
 ## Requirements
 
@@ -8,7 +8,7 @@
 
 ## How to view
 
-[View it on GitHub Pages](http://ben.balter.com/open-sourcing-government), or...
+[View it on GitHub Pages](http://ben.balter.com/make-reporting-better-together), or...
 
 1. Clone the repository
 2. `cd` to the directory
